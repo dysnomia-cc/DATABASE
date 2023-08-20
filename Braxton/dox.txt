@@ -1,0 +1,18 @@
+
+          ██████╗  ██████╗ ██╗  ██╗    ██╗ ██████╗           
+          ██╔══██╗██╔═══██╗╚██╗██╔╝    ██║██╔════╝           
+█████╗    ██║  ██║██║   ██║ ╚███╔╝     ██║██║  ███╗    █████╗
+╚════╝    ██║  ██║██║   ██║ ██╔██╗     ██║██║   ██║    ╚════╝
+          ██████╔╝╚██████╔╝██╔╝ ██╗    ██║╚██████╔╝          
+          ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚═╝ ╚═════╝           
+                                                             
+
+
+
+NAME: Braxton
+LAST NAME: [REDACTED] {POSSIBLY "PAUL"}
+AGE: 13
+BIRTHYEAR: 2010
+LOCATION: EVANS, COLOMBIA, GA, USA
+SCHOOL: GREENBRIER MIDDLE SCHOOL, EVANS, COLOMBIA, GA, USA
+SCHOOL ADRESS: 5120 Riverwood Pkwy, Evans, GA 30809, United States
