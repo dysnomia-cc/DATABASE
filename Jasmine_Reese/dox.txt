@@ -1,0 +1,22 @@
+
+          ██████╗  ██████╗ ██╗  ██╗    ██╗ ██████╗           
+          ██╔══██╗██╔═══██╗╚██╗██╔╝    ██║██╔════╝           
+█████╗    ██║  ██║██║   ██║ ╚███╔╝     ██║██║  ███╗    █████╗
+╚════╝    ██║  ██║██║   ██║ ██╔██╗     ██║██║   ██║    ╚════╝
+          ██████╔╝╚██████╔╝██╔╝ ██╗    ██║╚██████╔╝          
+          ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚═╝ ╚═════╝           
+                                                             
+
+
+FIRST NAME: JASMINE
+LAST NAME: REESE
+AGE: 13
+D/O/B: 12.3.2009
+ADDRESS: 219 Tulip Drive
+TOWN/CITY: EVANS
+COUNTY: COLOMBIA
+STATE: GA
+COUNTRY: USA
+DISCORD: ohlovely
+INTELLIGENCE LEVEL: FAIRLY DUMB
+
